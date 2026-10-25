@@ -25,7 +25,7 @@ Writes a version into `package.json` and, optionally, `package-lock.json`, and n
 
 ## Decisions
 
-Accepted records are binding for humans and agents until a newer record supersedes them. If your task conflicts with one, stop and say so in the issue or pull request. A pull request that changes a decided behaviour adds or supersedes a record. Decisions for this repository are in [docs/decisions/](docs/decisions/README.md):
+Accepted records are binding for humans and agents until a newer record supersedes them. If your task conflicts with one, stop and say so in the issue or pull request. A pull request that changes a decided behaviour adds or supersedes a record. Decisions for this repository are in [docs/decisions/](docs/decisions/README.md): To write one, use the [record-a-decision](.claude/skills/record-a-decision/SKILL.md) skill.
 
 - [0001](docs/decisions/0001-the-action-writes-the-version-it-is-given-and-nothing-else.md): The action writes the version it is given and nothing else.
 - [0002](docs/decisions/0002-package-json-is-rewritten-whole-and-npm-regenerates-the-lock-file.md): package.json is rewritten whole and npm regenerates the lock file.
