@@ -18,7 +18,7 @@ Update package.json and optionally package-lock.json to a specified version.
 ## Example
 
 ```yaml
-- uses: vscheuber/manifest-version-update-action@v1
+- uses: gearsnlevers/manifest-version-update-action@v1
   with:
     version: 1.2.3
 ```
