@@ -1,3 +1,4 @@
 {"at":"2026-11-24T15:01:52Z","event":"opened","key":"0001:P-06","violations":[{"commit":"b0266f47f0aadcc1a66158d25fffbf5db15198f9","kind":"state","file":"0001-the-action-writes-the-version-it-is-given-and-nothing-else.md","rule":"P-06","detail":"no seal"}]}
 {"at":"2026-11-24T15:01:52Z","event":"opened","key":"0002:P-06","violations":[{"commit":"b0266f47f0aadcc1a66158d25fffbf5db15198f9","kind":"state","file":"0002-package-json-is-rewritten-whole-and-npm-regenerates-the-lock-file.md","rule":"P-06","detail":"no seal"}]}
 {"at":"2026-11-24T15:01:52Z","event":"opened","key":"0003:P-06","violations":[{"commit":"b0266f47f0aadcc1a66158d25fffbf5db15198f9","kind":"state","file":"0003-releases-run-through-one-dispatched-workflow-that-uses-the-sibling-actions.md","rule":"P-06","detail":"no seal"}]}
+{"at":"2026-11-24T15:13:11Z","event":"closed","key":"0003:P-06","violations":[]}
