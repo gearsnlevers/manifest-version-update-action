@@ -5,6 +5,7 @@ decision-makers:
   - maintainers
 applies-to:
   - scripts/update-manifest.sh
+seal: sha256-g1:cb4f00d79eedbf2525abf3023997e5dd59a6b3fbf867420e5c4d8f923f65f3df
 ---
 
 # package.json is rewritten whole and npm regenerates the lock file

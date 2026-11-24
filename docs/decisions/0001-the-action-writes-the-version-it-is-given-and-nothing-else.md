@@ -7,6 +7,7 @@ applies-to:
   - action.yml
   - scripts/update-manifest.sh
   - README.md
+seal: sha256-g1:be32c0d63d840de417776d45a3677183c19a787cd3969901279c9e56b28026c2
 ---
 
 # The action writes the version it is given and nothing else
